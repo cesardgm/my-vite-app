@@ -1,6 +1,6 @@
 # Deploying a Vite + React App to GitHub Pages with Custom Domain
 This tutorial is derived from `https://github.com/gitname/react-gh-pages`.
-To view this Vite + React app as a github page vist `https://cesardgm.github.io/my-vite-app`.
+To view this Vite + React app as a github page vist (https://cesardgm.github.io/my-vite-app)[https://cesardgm.github.io/my-vite-app].
 
 ## Prerequisites
 

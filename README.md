@@ -100,6 +100,7 @@
 - Replace `{username}` with your GitHub username throughout this guide.
 - Ensure your repository is public, or upgrade to GitHub Pro for private repository support.
 - The `base` property in `vite.config.ts` should match your repository name.
+- Clear the cache in your browser to ensure you are loading the latest deployment.
 
 By following these steps, you'll successfully deploy your Vite + React app to GitHub Pages with a custom domain.
 

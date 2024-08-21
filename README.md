@@ -112,6 +112,7 @@ By following these steps, you'll successfully deploy your Vite + React app to Gi
 2. Domain Registration and DNS Configuration:
    - Purchase a domain through AWS Route 53.
    - Navigate to the hosted zone for your purchased domain.
+   - Don't delete any of the default records.
    - Create a `Simple Record` of type `A`:
      - Set `Alias` to No
      - Enter the following IP addresses for `Value/Route traffic to`:
